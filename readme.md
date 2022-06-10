@@ -1,10 +1,9 @@
-# A collection of my favourite open source samples
+# A collection of my favourite open source Angular projects
 
-Great for experimenting with and using as test bed apps.
  
 ## License
 
-See the license files in the respective folders, all are under permissive open source licenses.
+See the license files in the respective folders, all are under permissive open source licenses (MIT for both currently)
 
 ## About Me
 
