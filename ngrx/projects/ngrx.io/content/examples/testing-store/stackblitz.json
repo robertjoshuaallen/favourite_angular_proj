@@ -1,0 +1,5 @@
+{
+  "description": "Store Testing Tutorial",
+  "files": ["!**/*.d.ts", "**/*.spec.ts"],
+  "type": "testing"
+}
